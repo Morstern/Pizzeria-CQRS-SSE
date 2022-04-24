@@ -16,7 +16,7 @@
     </properties>
 
     <build>
-        <sourceDirectory>src/main/java/pl/morstern/PizzaCQRS/common/enums</sourceDirectory>
+        <sourceDirectory>src/main/java/pl/morstern/PizzaCQRS/common</sourceDirectory>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
